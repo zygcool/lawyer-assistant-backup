@@ -1,0 +1,21 @@
+# 律师办案智能助手 - 项目依赖
+
+# PDF处理库
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+PyMuPDF==1.23.14
+
+# 图像处理
+Pillow==10.1.0
+
+# 数据库连接
+mysql-connector-python==8.2.0
+
+# 网络请求
+requests==2.31.0
+
+# 加密库
+cryptography==41.0.7
+
+# 其他可能需要的依赖
+numpy==1.24.3
